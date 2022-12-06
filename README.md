@@ -9,6 +9,4 @@ Olá, sou Felipe Noguez.<br>Sou estagiário backend na DBCCompany.<br>Estudante 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Felipe-Noguez&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Felipe-Noguez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Noguez&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
