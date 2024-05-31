@@ -1,4 +1,4 @@
-Olá, sou Felipe Noguez.<br>Sou estagiário backend na DBCCompany.<br>Estudante de Ciência de Dados.
+Olá, sou Felipe Noguez.<br>Sou análista de infraestrutura na empresa CWI Software.<br>.
 
 
 ## 🌐:
